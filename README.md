@@ -22,7 +22,8 @@ To deliver a curated set of SQL queries that enable:
 
 ```bash
 sql-project/
-│
+│   ├── 00_init_database.sql
+|
 ├── exploratory_data_analysis/
 │   ├── 01_database_exploration.sql
 │   ├── 02_dimensions_exploration.sql
